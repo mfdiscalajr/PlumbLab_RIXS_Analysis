@@ -1,7 +1,7 @@
 Plumb Lab RIXS Data Analysis
 ============================
 
-Here we keep the up to date analysis tools used for RIXS scan analysis at Plumb Lab at Brown University. 
+Here we keep the up to date analysis tools used for RIXS data analysis in Plumb Lab at Brown University. 
 
 ## Contributers:
 
