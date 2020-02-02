@@ -1,7 +1,7 @@
 Plumb Lab RIXS Data Analysis
 ============================
 
-Here we keep the up to date analysis tools used for RIXS data analysis in Plumb Lab at Brown University. 
+Here we keep the up to date analysis tools used for RIXS data analysis in Plumb Lab at Brown University. Each compound being analyzed and modeled will have its own folder in the repository. These folders will specifically have code meant to analyze experimental data relevant to that compound and/or significant modifications to the base code made for that compound.  
 
 ## Contributers:
 
